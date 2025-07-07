@@ -1,4 +1,23 @@
 body{
-    font-family: arial,sans-serif;
-    background-color: #f4f4f4;
+    font-family: sans-serif;
+    background-color: black;
+}
+h1{
+    background-color: transparent;
+    color: #0f0;
+    padding: 0px;
+}
+h2{
+    background-color: transparent;
+    color: #0f0;
+}
+p{
+    font-family: sans-serif ;
+    background-color: transparent;
+    color: #0f0;
+}
+a{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: transparent;
+    color: #0f0
 }
